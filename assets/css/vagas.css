@@ -1,0 +1,85 @@
+.vagas {
+    text-align: center;
+    padding-top: 8em;
+}
+.reuniao__imagem{
+    width: 85%;
+}
+
+.titulo__vagas {
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--bordo);
+    padding: 0.5em;
+}
+
+.titulo-principal__vagas {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--azul-escuro);
+    padding: 1em 0;
+}
+
+.vagas__sobre {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    padding-bottom: 4em;
+}
+
+
+
+
+
+
+.vagas-abertas {
+    display: flex;
+    text-align: left;
+    margin-top: 3em;
+}
+
+.vaga-area {
+    padding-left: 15em;
+}
+
+.vaga-nome {
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--azul-escuro);
+}
+
+.vaga-funcao {
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    margin: 2em 0 2em 1em;
+    padding: 1.5em;
+    padding-right: 20em;
+}
+
+.vaga-funcao__nome {
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 2em;
+}
+
+
+.vaga__descricao {
+    display: flex;
+}
+
+.carga-horaria {
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza);
+}
+
+.salario {
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza);
+    padding-left: 2em;
+}

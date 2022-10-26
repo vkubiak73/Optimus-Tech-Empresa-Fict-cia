@@ -1,0 +1,44 @@
+.depoimentos {
+    padding: 6em;
+    padding-bottom: 5em;
+    text-align: center;
+}
+
+.depoimentos__container {
+    background-color: var(--cor-de-fundo);
+    border-radius: 16px;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.depoimento__titulo {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--bordo);
+    padding-top: 1em
+}
+
+.depoimento__texto {
+    font-weight: 500;
+    font-size: 35px;
+    color: var(--azul-escuro);
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+.perfil__nome {
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--azul-escuro);
+    padding: 1em 0;
+}
+
+.perfil__profissao {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza);
+    padding-bottom: 1em;
+}

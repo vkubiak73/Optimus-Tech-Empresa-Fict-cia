@@ -1,0 +1,39 @@
+.metricas,
+.metrica__lista,
+.metrica__item {
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+}
+
+
+.metrica__lista {
+    flex-wrap: wrap;
+    row-gap: 1rem;
+}
+
+.metrica__item {
+    flex-direction: column;
+    padding: 0 1em;
+}
+
+
+.metrica__numero {
+    font-weight: 600;
+    font-size: 60px;
+    color: var(--bordo);
+}
+
+.metrica__titulo {
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--azul-escuro);
+    padding: 0.9em 0;
+}
+
+.metrica__descricao {
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza);
+    width: 17em;
+}

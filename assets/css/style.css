@@ -1,0 +1,13 @@
+@import url(../css/header.css);
+@import url(../css/sobre-nos.css);
+@import url(../css/metricas.css);
+@import url(../css/vagas.css);
+@import url(../css/depoimentos.css);
+@import url(../css/footer.css);
+:root {
+    --bordo: #8E2424;
+    --cinza: #667085;
+    --azul-escuro: #101828;
+    --cor-de-fundo: rgba(196, 25, 25, 0.03);
+     font-family: 'Inter', sans-serif;
+}
